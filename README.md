@@ -2,8 +2,8 @@ Recent certification
 
 # The Cybersecurity and Infrastructure Security Agency (CISA)
 # U.S. Dept. of Homeland Security
-100W Cybersecurity Practices for Industrial Control Systems
-210W Differences in Deployments of Industrial Control Systems
+* 100W Cybersecurity Practices for Industrial Control Systems
+* 210W Differences in Deployments of Industrial Control Systems
 210W Influence of IT Components on Industrial Control Systems
 210W Common ICS Components
 210W Cybersecurity Within IT and ICS Domains
