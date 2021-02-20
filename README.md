@@ -5,7 +5,7 @@
 * 100W Cybersecurity Practices for Industrial Control Systems
 * 210W Differences in Deployments of Industrial Control Systems
 * 210W Influence of IT Components on Industrial Control Systems
-* 10W Common ICS Components
+* 210W Common ICS Components
 * 210W Cybersecurity Within IT and ICS Domains
 * 210W ICS Cybersecurity Risk
 * 210W ICS Cybersecurity Threats
